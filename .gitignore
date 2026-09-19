@@ -1,0 +1,5 @@
+.env
+
+bongo-devops-core
+bongo-devops-core.*
+.bongo-devops-core*
